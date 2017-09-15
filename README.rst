@@ -1,6 +1,8 @@
 About
 =====
 
+This is a Python 3 fork of fabtools.
+
 ``fabtools`` includes useful functions to help you write your `Fabric <http://fabfile.org/>`_ files.
 
 ``fabtools`` makes it easier to manage system users, packages, databases, etc.
@@ -12,17 +14,17 @@ Using ``fabtools.require`` allows you to use a more declarative style, similar t
 Installing
 ==========
 
-To install the latest release from `PyPI <http://pypi.python.org/pypi/fabtools>`_
+To install the latest release from `PyPI <https://pypi.python.org/pypi/fabtools3/>`_
 
 .. code-block:: console
 
-    $ pip install fabtools
+    $ pip install fabtools3
 
-To install the latest development version from `GitHub <https://github.com/ronnix/fabtools>`_
+To install the latest development version from `GitHub <https://github.com/ds-forks/fabtools3>`_
 
 .. code-block:: console
 
-    $ pip install git+git://github.com/ronnix/fabtools.git
+    $ pip install git+git://github.com/ds-forks/fabtools3.git
 
 Example
 =======
